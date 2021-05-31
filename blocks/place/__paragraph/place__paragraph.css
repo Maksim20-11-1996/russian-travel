@@ -21,4 +21,8 @@
     .place__paragraph {
         margin: 0 16px;
     }
+
+    .place__paragraph:last-of-type {
+        margin: 25px 16px 0;
+    }
 }
